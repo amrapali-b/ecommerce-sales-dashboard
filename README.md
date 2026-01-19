@@ -21,7 +21,7 @@ The goal is to understand revenue trends, top-performing products, and overall s
 
 ## Dashboard Insights
 ## Dashboard Screenshot
-
+(dashboard.png)
 
 - Identified highest revenue-generating products
 - Analyzed month-wise revenue performance
