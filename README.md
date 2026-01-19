@@ -20,6 +20,9 @@ The goal is to understand revenue trends, top-performing products, and overall s
 - Interactive Excel Dashboard
 
 ## Dashboard Insights
+## Dashboard Screenshot
+
+![Dashboard](dashboard.png)
 - Identified highest revenue-generating products
 - Analyzed month-wise revenue performance
 - Visualized product-wise revenue contribution
